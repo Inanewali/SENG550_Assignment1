@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.3">
   <diagram name="Page-1" id="W8m7j2u6ZP9QsEyXHzbB">
-    <mxGraphModel>
+    <mxGraphModel dx="1892" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="A-FWGXMTpuw2ge0CFE02-2" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" value="SENG 511 Assignments 1–5 Process" vertex="1">
+          <mxGeometry height="680" width="850" x="-210" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FWGXMTpuw2ge0CFE02-3" parent="A-FWGXMTpuw2ge0CFE02-2" style="swimlane;startSize=20;horizontal=0;html=1;" value="Instructor" vertex="1">
+          <mxGeometry height="200" width="850" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FWGXMTpuw2ge0CFE02-4" parent="A-FWGXMTpuw2ge0CFE02-2" style="swimlane;startSize=20;horizontal=0;html=1;" value="Student" vertex="1">
+          <mxGeometry height="210" width="850" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FWGXMTpuw2ge0CFE02-5" parent="A-FWGXMTpuw2ge0CFE02-2" style="swimlane;startSize=20;horizontal=0;html=1;" value="Team Members" vertex="1">
+          <mxGeometry height="250" width="850" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FWGXMTpuw2ge0CFE02-6" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Tools &amp;amp; Systems" vertex="1">
+          <mxGeometry height="280" width="850" x="-210" y="980" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
